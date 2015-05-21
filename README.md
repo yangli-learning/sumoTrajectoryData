@@ -55,7 +55,7 @@ to identify the route that the trajectory is sampled from.
 e.g. '11.5' means the 5th trajectory on the 11th route.
 
 - `segmentXX` is id of the road segment on which the trajectory is sampled from. 
-The edge ids are consistent with the Open Street Map.  
+The segment ids are consistent with the Open Street Map.  
 
 ---------------------------------
 ### Where are the route files/map files?
