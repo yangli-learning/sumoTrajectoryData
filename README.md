@@ -57,10 +57,14 @@ e.g. '11.5' means the 5th trajectory on the 11th route.
 - `segmentXX` is id of the road segment on which the trajectory is sampled from. 
 The segment ids are consistent with the Open Street Map.  
 
----------------------------------
-### Where are the route files/map files?
+#### Map files
 
-They will be added soon.
+Map data in .osm format are stored in `osm/`.
+
+---------------------------------
+### Where are the route files/network files?
+
+Please contact me via email <yangli1@stanford.edu>
 
 
 
